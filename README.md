@@ -9,3 +9,5 @@
 ```
 python3 script_investigacion.py
 ```
+## Captura
+![Ejecución captura](script_captura.png)
